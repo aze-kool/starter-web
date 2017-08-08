@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Test
 
 ##changes committed to local repository
+
+## changes to staging area
+
+##change in working dir
